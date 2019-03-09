@@ -1,4 +1,4 @@
-3D Crane machine written in processing (Java) with the use of openGL
+School Project 3D Crane machine written in processing (Java) with the use of openGL
 
 Controls:
 Q / W : crane arm rotation
